@@ -1,0 +1,12 @@
+/* src/ListGroupPropsWithState.css */
+.list-group-item {
+    padding: 10px;
+    cursor: pointer;
+    /* Add other default styles here */
+  }
+  
+  .list-group-item.active {
+    background-color: rgb(141, 197, 124); /* Highlight color */
+    /* Add other styles for the active state */
+  }
+  
